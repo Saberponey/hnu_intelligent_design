@@ -1,0 +1,2 @@
+# hnu_intelligent_design
+湖南大学设计艺术学院教学资源
