@@ -3,7 +3,8 @@
 
 # 实现效果
 unity作为前端，可获取电脑摄像头的实时视频流图像，发送给python后端，python对于画面逐帧边缘处理，并返回给unity同步显示。
-![](README/image.png)
+<img width="655" alt="image" src="https://github.com/user-attachments/assets/01eaa3b0-1079-4ea9-a813-9dbfbd8b6329" />
+
 ## 配置Python后端
 
 首先，确保你安装了必要的Python库：
